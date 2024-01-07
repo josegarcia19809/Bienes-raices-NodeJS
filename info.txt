@@ -1,0 +1,36 @@
+Creado Domingo 7 de enero de 2024
+
+Node.js - Bootcamp Desarrollo Web inc. MVC y REST APIs
+Juan Pablo De la torre Valdez
+
+Bienes raíces, NodeJS: Creando el servidor
+
+
+Ejecutando Código de Node desde el package.json
+05:00
+Creando un Servidor con Express
+09:06
+Habilitando ES Modules en Node
+03:11
+
+¿Qué es el Routing?
+08:00
+Probando Peticiones GET y POST
+04:12
+
+¿Qué es un Template Engine?
+03:22
+Habilitando Pug y como funciona
+08:45
+Pasar datos hacia las vistas
+02:59
+¿Qué es MVC?
+05:22
+Implementando Controllers
+03:29
+Añadiendo Más rutas
+02:19
+Instalando TailwindCSS
+12:30
+Creando un Layout Principal
+08:03
