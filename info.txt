@@ -3,18 +3,12 @@ Creado Domingo 7 de enero de 2024
 Node.js - Bootcamp Desarrollo Web inc. MVC y REST APIs
 Juan Pablo De la torre Valdez
 
-Bienes raíces, NodeJS: Creando el servidor
+Modificado miércoles 17 de enero de 2024
 
 
-Ejecutando Código de Node desde el package.json
-05:00
-Creando un Servidor con Express
-09:06
-Habilitando ES Modules en Node
-03:11
 
-¿Qué es el Routing?
-08:00
+Bienes raíces, NodeJS: Agregando Routing
+
 Probando Peticiones GET y POST
 04:12
 
