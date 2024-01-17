@@ -7,15 +7,9 @@ Modificado miércoles 17 de enero de 2024
 
 
 
-Bienes raíces, NodeJS: Agregando Routing
+Bienes raíces, NodeJS: Habilitando Pug
 
-Probando Peticiones GET y POST
-04:12
 
-¿Qué es un Template Engine?
-03:22
-Habilitando Pug y como funciona
-08:45
 Pasar datos hacia las vistas
 02:59
 ¿Qué es MVC?
