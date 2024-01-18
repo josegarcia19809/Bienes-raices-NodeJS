@@ -7,15 +7,8 @@ Modificado miércoles 17 de enero de 2024
 
 
 
-Bienes raíces, NodeJS: Pasar datos hacia las vistas
+Bienes raíces, NodeJS: Implementando Controllers
 
-
-
-02:59
-¿Qué es MVC?
-05:22
-Implementando Controllers
-03:29
 Añadiendo Más rutas
 02:19
 Instalando TailwindCSS
