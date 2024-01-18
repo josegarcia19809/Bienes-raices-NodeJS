@@ -7,10 +7,10 @@ Modificado miércoles 17 de enero de 2024
 
 
 
-Bienes raíces, NodeJS: Habilitando Pug
+Bienes raíces, NodeJS: Pasar datos hacia las vistas
 
 
-Pasar datos hacia las vistas
+
 02:59
 ¿Qué es MVC?
 05:22
@@ -22,3 +22,64 @@ Instalando TailwindCSS
 12:30
 Creando un Layout Principal
 08:03
+
+
+Primeros pasos con la página de Registro
+03:20
+Creando el Formulario
+07:59
+Finalizando el Formulario
+03:34
+Creando la Página de Login de Usuarios
+01:50
+Creando la página de olvide mi password
+02:05
+Agregando enlaces entre las páginas recién creadas
+04:40
+
+¿Qué es un ORM?
+05:15
+Conectando nuestra app a una base de datos
+09:17
+Ocultando la información de la base de datos en variables de entorno
+06:07
+
+Primeros pasos definiendo un Modelo
+03:13
+Añadiendo los campos necesarios para el Modelo
+04:44
+Comunicando la Vista con el routing y el Controller
+02:57
+¿Como leer los datos ingresados a un formulario?
+03:42
+Creando un Usuario desde el Formulario
+06:23
+Añadiendo Validación al Formulario
+06:46
+Agregando el Resto de Validaciones
+04:34
+Mostrando los Errores en la Pantalla
+07:09
+Auto llenando los campos que pasaron la validación
+03:25
+Evitar Usuarios Duplicados
+05:14
+Hashear los Passwords
+06:44
+Generando un Token Único para que el usuario confirme su cuenta
+03:59
+Mostrando un mensaje de que el usuario debe Confirmar su Cuenta
+02:38
+Enviando Emails con NodeMailer y Mailtrap
+05:37
+Probando el Envio de Emails
+08:44
+Leer el Token del Usuario
+10:49
+Confirmar si el Token es Válido o no
+07:00
+Confirmando la Cuenta del Usuario
+04:51
+Habilitando Protección CSRF
+07:59
+
