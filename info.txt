@@ -3,15 +3,23 @@ Creado Domingo 7 de enero de 2024
 Node.js - Bootcamp Desarrollo Web inc. MVC y REST APIs
 Juan Pablo De la torre Valdez
 
+
+Instalar tailwind
+    npm i -D tailwindcss autoprefixer postcss postcss-cli
+    npx tailwindcss init -p
+Compilar
+    Modificar package.json
+    npm run css
+
 Modificado miércoles 17 de enero de 2024
 
 
 
-Bienes raíces, NodeJS: Añadiendo Más rutas
+Bienes raíces, NodeJS: Instalando TailwindCSS
 
 
 02:19
-Instalando TailwindCSS
+
 12:30
 Creando un Layout Principal
 08:03
