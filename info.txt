@@ -8,22 +8,14 @@ Instalar tailwind
     npm i -D tailwindcss autoprefixer postcss postcss-cli
     npx tailwindcss init -p
 Compilar
-    Modificar package.json
-    npm run css
+    Modificar package.json (checar)
+    npm run css (ya no sería necesario con el --watch)
 
 Modificado miércoles 17 de enero de 2024
+Modificado jueves 18 de enero de 2024
 
 
-
-Bienes raíces, NodeJS: Instalando TailwindCSS
-
-
-02:19
-
-12:30
-Creando un Layout Principal
-08:03
-
+Bienes raíces, NodeJS: Creando un Layout Principal
 
 Primeros pasos con la página de Registro
 03:20

@@ -1,6 +1,9 @@
-div
-    h2.text-center.text-6xl Bienvenido
-    if autenticado
-        p Usuario autenticado
-    else
-        p Inicia sesión
+extends ../layout/index
+
+block contenido
+    div
+        h2.text-center.text-2xl.font-extrabold Bienvenido
+        if autenticado
+            p Usuario autenticado
+        else
+            p Inicia sesión
