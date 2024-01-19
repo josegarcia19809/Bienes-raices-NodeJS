@@ -15,10 +15,8 @@ Modificado miércoles 17 de enero de 2024
 Modificado jueves 18 de enero de 2024
 
 
-Bienes raíces, NodeJS: Creando la Página de Login de Usuarios
+Bienes raíces, NodeJS: Creando la página de olvide mi password
 
-Creando la página de olvide mi password
-02:05
 Agregando enlaces entre las páginas recién creadas
 04:40
 
