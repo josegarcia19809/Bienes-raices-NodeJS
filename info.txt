@@ -11,15 +11,16 @@ Compilar
     Modificar package.json (checar)
     npm run css (ya no sería necesario con el --watch)
 
+Crear la base de datos: bienesraices_node_mvc
+
 Modificado miércoles 17 de enero de 2024
 Modificado jueves 18 de enero de 2024
+Modificado viernes 19 de enero de 2024
 
 
-Bienes raíces, NodeJS: Agregando enlaces entre las páginas recién creadas
+Bienes raíces, NodeJS: Conectando nuestra app a una base de datos
 
-¿Qué es un ORM?
-05:15
-Conectando nuestra app a una base de datos
+
 09:17
 Ocultando la información de la base de datos en variables de entorno
 06:07
