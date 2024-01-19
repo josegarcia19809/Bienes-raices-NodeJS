@@ -15,14 +15,9 @@ Modificado miércoles 17 de enero de 2024
 Modificado jueves 18 de enero de 2024
 
 
-Bienes raíces, NodeJS: Primeros pasos con la página de Registro
+Bienes raíces, NodeJS: Creando el Formulario
 
 
-03:20
-Creando el Formulario
-07:59
-Finalizando el Formulario
-03:34
 Creando la Página de Login de Usuarios
 01:50
 Creando la página de olvide mi password
