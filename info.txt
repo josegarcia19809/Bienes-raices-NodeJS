@@ -15,10 +15,7 @@ Modificado miércoles 17 de enero de 2024
 Modificado jueves 18 de enero de 2024
 
 
-Bienes raíces, NodeJS: Creando la página de olvide mi password
-
-Agregando enlaces entre las páginas recién creadas
-04:40
+Bienes raíces, NodeJS: Agregando enlaces entre las páginas recién creadas
 
 ¿Qué es un ORM?
 05:15
