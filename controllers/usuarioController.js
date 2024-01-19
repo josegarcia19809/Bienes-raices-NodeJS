@@ -1,4 +1,3 @@
-
 const formularioLogin = (req, res) => {
     res.render('auth/login', {
         autenticado: false
@@ -7,7 +6,7 @@ const formularioLogin = (req, res) => {
 
 const formularioRegistro = (req, res) => {
     res.render('auth/registro', {
-
+        pagina: "Crear cuenta"
     })
 }
 

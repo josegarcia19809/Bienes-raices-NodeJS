@@ -15,9 +15,9 @@ Modificado miércoles 17 de enero de 2024
 Modificado jueves 18 de enero de 2024
 
 
-Bienes raíces, NodeJS: Creando un Layout Principal
+Bienes raíces, NodeJS: Primeros pasos con la página de Registro
 
-Primeros pasos con la página de Registro
+
 03:20
 Creando el Formulario
 07:59
