@@ -6,11 +6,12 @@ import db from "./config/db.js";
 const app = express();
 
 // Conexión a la base datos
-try{
+try {
     await db.authenticate();
+    db.sync();
     console.log("Conexión correcta a la base de datos");
 
-}catch (e) {
+} catch (e) {
     console.log(e);
 }
 
