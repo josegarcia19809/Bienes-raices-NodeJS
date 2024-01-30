@@ -19,13 +19,8 @@ Modificado viernes 19 de enero de 2024
 Modificado lunes 29 de enero de 2024
 
 
-Bienes raíces, NodeJS: Auto llenando los campos que pasaron la validación
+Bienes raíces, NodeJS: Evitar Usuarios Duplicados
 
-
-
-03:25
-Evitar Usuarios Duplicados
-05:14
 Hashear los Passwords
 06:44
 Generando un Token Único para que el usuario confirme su cuenta
