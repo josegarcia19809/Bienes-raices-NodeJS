@@ -14,6 +14,9 @@ try{
     console.log(e);
 }
 
+// Habilitar lectura de datos de formularios
+app.use(express.urlencoded({extended: true}));
+
 // Habilitar PUG
 app.set("view engine", "pug");
 app.set("views", "./views");
