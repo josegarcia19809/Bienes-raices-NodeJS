@@ -19,11 +19,9 @@ Modificado viernes 19 de enero de 2024
 Modificado lunes 29 de enero de 2024
 
 
-Bienes raíces, NodeJS: Agregando el Resto de Validaciones
+Bienes raíces, NodeJS: Mostrando los Errores en la Pantalla
 
 
-Mostrando los Errores en la Pantalla
-07:09
 Auto llenando los campos que pasaron la validación
 03:25
 Evitar Usuarios Duplicados
