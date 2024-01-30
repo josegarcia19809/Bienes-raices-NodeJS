@@ -22,10 +22,19 @@ const formularioOlvidePassword = (req, res) => {
 const registrar = async (req, res) => {
     // Validación
     await check("nombre").notEmpty().withMessage("El nombre es obligatorio").run(req);
-    let resultado=validationResult(req);
+    await check("email").isEmail().withMessage("El email no es válido").run(req);
+    await check("password").isLength({min: 6}).withMessage("El password debe tener 6" +
+        " caracteres").run(req);
+    await check("repetir_password").equals("password").withMessage("Los passwords no son" +
+        " iguales").run(req);
+
+    let resultado = validationResult(req);
+
+    // Verificar que resultado esté vacío
+
     res.json(resultado.array());
 
-    const usuario= await Usuario.create(req.body);
+    const usuario = await Usuario.create(req.body);
     res.json(usuario);
 }
 
