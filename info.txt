@@ -19,11 +19,9 @@ Modificado viernes 19 de enero de 2024
 Modificado lunes 29 de enero de 2024
 
 
-Bienes raíces, NodeJS: Definiendo y Añadiendo los campos necesarios para el Modelo
+Bienes raíces, NodeJS: Comunicando la Vista con el routing y el Controller
 
 
-Comunicando la Vista con el routing y el Controller
-02:57
 ¿Como leer los datos ingresados a un formulario?
 03:42
 Creando un Usuario desde el Formulario
