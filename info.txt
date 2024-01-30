@@ -19,11 +19,9 @@ Modificado viernes 19 de enero de 2024
 Modificado lunes 29 de enero de 2024
 
 
-Bienes raíces, NodeJS: Creando un Usuario desde el Formulario
+Bienes raíces, NodeJS: Añadiendo Validación al Formulario
 
 
-Añadiendo Validación al Formulario
-06:46
 Agregando el Resto de Validaciones
 04:34
 Mostrando los Errores en la Pantalla
