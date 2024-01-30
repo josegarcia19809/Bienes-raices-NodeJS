@@ -19,13 +19,9 @@ Modificado viernes 19 de enero de 2024
 Modificado lunes 29 de enero de 2024
 
 
-Bienes raíces, NodeJS: Ocultando la información de la base de datos en variables de entorno
+Bienes raíces, NodeJS: Definiendo y Añadiendo los campos necesarios para el Modelo
 
 
-Primeros pasos definiendo un Modelo
-03:13
-Añadiendo los campos necesarios para el Modelo
-04:44
 Comunicando la Vista con el routing y el Controller
 02:57
 ¿Como leer los datos ingresados a un formulario?
