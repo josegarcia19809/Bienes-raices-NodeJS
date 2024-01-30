@@ -19,9 +19,9 @@ Modificado viernes 19 de enero de 2024
 Modificado lunes 29 de enero de 2024
 
 
-Bienes raíces, NodeJS: Evitar Usuarios Duplicados
+Bienes raíces, NodeJS: Hashear los Passwords
 
-Hashear los Passwords
+
 06:44
 Generando un Token Único para que el usuario confirme su cuenta
 03:59
