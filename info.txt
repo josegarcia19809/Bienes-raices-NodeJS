@@ -17,16 +17,12 @@ Modificado miércoles 17 de enero de 2024
 Modificado jueves 18 de enero de 2024
 Modificado viernes 19 de enero de 2024
 Modificado lunes 29 de enero de 2024
+Modificado martes 30 de enero de 2024
 
 
-Bienes raíces, NodeJS: Hashear los Passwords
+Bienes raíces, NodeJS: Mostrando un mensaje de que el usuario debe Confirmar su Cuenta
 
 
-06:44
-Generando un Token Único para que el usuario confirme su cuenta
-03:59
-Mostrando un mensaje de que el usuario debe Confirmar su Cuenta
-02:38
 Enviando Emails con NodeMailer y Mailtrap
 05:37
 Probando el Envio de Emails
