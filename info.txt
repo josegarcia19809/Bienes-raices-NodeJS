@@ -20,13 +20,13 @@ Modificado lunes 29 de enero de 2024
 Modificado martes 30 de enero de 2024
 
 
-Bienes raíces, NodeJS: Leer el Token del Usuario
+Bienes raíces, NodeJS: Confirmar si el Token es Válido o no
 
 
-Confirmar si el Token es Válido o no
-07:00
+
+
 Confirmando la Cuenta del Usuario
-04:51
+
 Habilitando Protección CSRF
-07:59
+
 
