@@ -20,5 +20,17 @@ Modificado lunes 29 de enero de 2024
 Modificado martes 30 de enero de 2024
 
 
-Bienes raíces, NodeJS: Habilitando Protección CSRF
+Bienes raíces, NodeJS: Implementando la sección de Olvide mi password
+
+Primeros pasos con Resetear el Password
+
+Buscar si el Usuario existe en la base de datos
+
+Enviando un Email con la información para resetear
+
+Comprobar el Token del Usuario en la BD
+
+Creando el Formulario para Almacenar el Nuevo Password
+
+Almacenando el Nuevo Password
 
