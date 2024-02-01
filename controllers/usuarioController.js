@@ -18,12 +18,12 @@ const formularioRegistro = (req, res) => {
 
 const formularioOlvidePassword = (req, res) => {
     res.render('auth/olvide-password', {
-        pagina: "Recupera tu acceso a Bienes raíces"
+        pagina: "Recupera tu acceso a Bienes raíces",
+        csrfToken: req.csrfToken()
     })
 }
 
 const registrar = async (req, res) => {
-    console.log(req.body);
     // Validación
     await check("nombre").notEmpty().withMessage("El nombre es obligatorio").run(req);
     await check("email").isEmail().withMessage("El email no es válido").run(req);
@@ -109,10 +109,28 @@ const confirmar = async (req, res) => {
     });
 }
 
+const resetPassword = async (req, res) => {
+    // Validación
+    await check("email").isEmail().withMessage("El email no es válido").run(req);
+
+    let resultado = validationResult(req);
+
+    // Verificar que resultado esté vacío
+    if (!resultado.isEmpty()) {
+        // Hubo errores
+        return res.render('auth/olvide-password', {
+            pagina: "Recupera tu acceso a bienes raíces",
+            csrfToken: req.csrfToken(),
+            errores: resultado.array()
+        });
+    }
+}
+
 export {
     formularioLogin,
     formularioRegistro,
     formularioOlvidePassword,
     registrar,
-    confirmar
+    confirmar,
+    resetPassword
 }

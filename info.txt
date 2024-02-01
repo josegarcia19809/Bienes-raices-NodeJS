@@ -18,9 +18,10 @@ Modificado jueves 18 de enero de 2024
 Modificado viernes 19 de enero de 2024
 Modificado lunes 29 de enero de 2024
 Modificado martes 30 de enero de 2024
+Modificado miércoles 31 de enero de 2024
 
 
-Bienes raíces, NodeJS: Implementando la sección de Olvide mi password
+Bienes raíces, NodeJS: Primeros pasos con Resetear el Password
 
 Primeros pasos con Resetear el Password
 
