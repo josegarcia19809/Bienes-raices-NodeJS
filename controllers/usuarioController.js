@@ -1,7 +1,7 @@
 import {check, validationResult} from "express-validator";
 import Usuario from "../models/Usuario.js";
 import {generarId} from "../helpers/tokens.js";
-import {emailRegistro} from "../helpers/emails.js";
+import {emailRegistro, emailOlvidePassword} from "../helpers/emails.js";
 
 const formularioLogin = (req, res) => {
     res.render('auth/login', {
@@ -124,6 +124,41 @@ const resetPassword = async (req, res) => {
             errores: resultado.array()
         });
     }
+
+    // Buscar al usuario
+    const {email} = req.body;
+    const usuario = await Usuario.findOne({where: {email}});
+    if (!usuario) {
+        return res.render('auth/olvide-password', {
+            pagina: "Recupera tu acceso a bienes raíces",
+            csrfToken: req.csrfToken(),
+            errores: [{msg: "El email no pertenece a ningún usuario"}]
+        });
+    }
+
+    // Generar un token y enviar al email
+    usuario.token = generarId();
+    await usuario.save();
+
+    // Enviar un email
+    emailOlvidePassword({
+        email: usuario.email,
+        nombre: usuario.nombre,
+        token: usuario.token
+    })
+    // Renderizar un mensaje
+    res.render("templates/mensaje", {
+        pagina: "Reestablece tu password",
+        mensaje: "Hemos enviado un email con las instrucciones"
+    })
+}
+
+const comprobarToken = (req, res, next) => {
+    next();
+}
+
+const nuevoPassword = (req, res) => {
+
 }
 
 export {
@@ -132,5 +167,7 @@ export {
     formularioOlvidePassword,
     registrar,
     confirmar,
-    resetPassword
+    resetPassword,
+    comprobarToken,
+    nuevoPassword
 }
