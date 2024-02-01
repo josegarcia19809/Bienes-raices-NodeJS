@@ -21,7 +21,21 @@ Modificado miércoles 31 de enero de 2024
 Modificado jueves 1 de febrero de 2024
 
 
-Bienes raíces, NodeJS: Almacenando el Nuevo Password
+Bienes raíces, NodeJS: BienesRaices - Implementando Autenticación de Usuarios
 
 
+Validando el Formulario
+04:26
+Comprobando si el Usuario Existe y Confirmó su Cuenta
+02:50
+Comprobando el Password
+06:56
+Introducción a JSON Web Tokens (JWT)
+04:00
+Creando un JWT
+05:46
+Creando una Función para Generar JWT
+05:08
+Almacenando el JWT en un Cookie
+06:49
 
