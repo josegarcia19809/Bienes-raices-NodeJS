@@ -1,8 +1,6 @@
-Creado Domingo 7 de enero de 2024
-
 Node.js - Bootcamp Desarrollo Web inc. MVC y REST APIs
 Juan Pablo De la torre Valdez
-
+Bienes raíces, NodeJS
 
 Instalar tailwind
     npm i -D tailwindcss autoprefixer postcss postcss-cli
@@ -13,18 +11,20 @@ Compilar
 
 Crear la base de datos: bienesraices_node_mvc
 
+Creado Domingo 7 de enero de 2024
 Modificado miércoles 17 de enero de 2024
 Modificado jueves 18 de enero de 2024
 Modificado viernes 19 de enero de 2024
 Modificado lunes 29 de enero de 2024
 Modificado martes 30 de enero de 2024
 Modificado miércoles 31 de enero de 2024
+Modificado jueves 1 de febrero de 2024
 
 
-Bienes raíces, NodeJS: Enviando un Email con la información para resetear
+Bienes raíces, NodeJS: Comprobar el Token del Usuario en la BD
 
 
-Comprobar el Token del Usuario en la BD
+
 
 Creando el Formulario para Almacenar el Nuevo Password
 
