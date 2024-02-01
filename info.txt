@@ -21,12 +21,7 @@ Modificado miércoles 31 de enero de 2024
 Modificado jueves 1 de febrero de 2024
 
 
-Bienes raíces, NodeJS: Comprobar el Token del Usuario en la BD
-
-
-
-
-Creando el Formulario para Almacenar el Nuevo Password
+Bienes raíces, NodeJS: Creando el Formulario para Almacenar el Nuevo Password
 
 Almacenando el Nuevo Password
 
