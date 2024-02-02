@@ -22,18 +22,8 @@ Modificado jueves 1 de febrero de 2024
 Modificado viernes 2 de febrero de 2024
 
 
-Bienes raíces, NodeJS: Comenzando el Formulario de Crear Propiedades
+Bienes raíces, NodeJS: Añadiendo Scripts para Mostrar un Mapa
 
-BienesRaices - Creación y Registro de Propiedades en Venta
-30 clases • 2 h 31 min
-
-06:31
-Añadiendo Campos de Categoria y Precio
-03:42
-Añadiendo Campos Extra con Información de la Propiedad
-05:53
-Añadiendo Scripts para Mostrar un Mapa
-03:20
 Compilando JS con Webpack
 09:09
 Ejecutar Múltiples Scripts al Mismo Tiempo
