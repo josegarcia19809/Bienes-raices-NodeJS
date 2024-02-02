@@ -21,11 +21,8 @@ Modificado miércoles 31 de enero de 2024
 Modificado jueves 1 de febrero de 2024
 
 
-Bienes raíces, NodeJS: BienesRaices - Validando el Formulario
+Bienes raíces, NodeJS: BienesRaices - Comprobando si el Usuario Existe y Confirmó su Cuenta
 
-
-Comprobando si el Usuario Existe y Confirmó su Cuenta
-02:50
 Comprobando el Password
 06:56
 Introducción a JSON Web Tokens (JWT)
