@@ -22,9 +22,9 @@ Modificado jueves 1 de febrero de 2024
 Modificado viernes 2 de febrero de 2024
 
 
-Bienes raíces, NodeJS: Añadiendo Scripts para Mostrar un Mapa
+Bienes raíces, NodeJS: Compilando JS con Webpack
 
-Compilando JS con Webpack
+
 09:09
 Ejecutar Múltiples Scripts al Mismo Tiempo
 03:49
