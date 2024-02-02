@@ -1,5 +1,6 @@
 import {check, validationResult} from "express-validator";
 import bcrypt from "bcrypt";
+import jwt from "jsonwebtoken";
 import Usuario from "../models/Usuario.js";
 import {generarId} from "../helpers/tokens.js";
 import {emailRegistro, emailOlvidePassword} from "../helpers/emails.js";
@@ -57,6 +58,14 @@ const autenticar = async (req, res) => {
         });
     }
 
+    // Autenticar al usuario
+    const token=jwt.sign({
+        nombre: "Jose",
+        empresa: "UAEM",
+        tecnologias: "NodeJS"
+    }, "palabra", {
+        expiresIn: "1d"
+    })
 
 }
 
