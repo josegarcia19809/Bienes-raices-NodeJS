@@ -21,9 +21,9 @@ Modificado miércoles 31 de enero de 2024
 Modificado jueves 1 de febrero de 2024
 
 
-Bienes raíces, NodeJS: BienesRaices - Comprobando si el Usuario Existe y Confirmó su Cuenta
+Bienes raíces, NodeJS: BienesRaices - Comprobando el Password
 
-Comprobando el Password
+
 06:56
 Introducción a JSON Web Tokens (JWT)
 04:00
