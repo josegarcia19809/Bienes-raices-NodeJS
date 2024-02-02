@@ -21,10 +21,10 @@ Modificado miércoles 31 de enero de 2024
 Modificado jueves 1 de febrero de 2024
 
 
-Bienes raíces, NodeJS: BienesRaices - Creando un JWT
+Bienes raíces, NodeJS: BienesRaices - Creando una Función para Generar JWT
 
 
-Creando una Función para Generar JWT
+
 05:08
 Almacenando el JWT en un Cookie
 06:49
