@@ -22,7 +22,7 @@ Modificado jueves 1 de febrero de 2024
 Modificado viernes 2 de febrero de 2024
 
 
-Bienes raíces, NodeJS: BienesRaices - Añadiendo un header
+Bienes raíces, NodeJS: Creación y registro de propiedades en venta
 
 
 
