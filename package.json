@@ -8,7 +8,8 @@
     "start": "node index.js",
     "server": "nodemon index.js",
     "css": "postcss public/css/tailwind.css -o public/css/app.css --watch",
-    "js": "webpack --watch"
+    "js": "webpack --watch",
+    "dev": "concurrently \"npm run css\" \"npm run js\""
   },
   "keywords": [],
   "author": "",
@@ -28,6 +29,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.17",
+    "concurrently": "^8.2.2",
     "nodemon": "^3.0.2",
     "postcss": "^8.4.33",
     "postcss-cli": "^11.0.0",

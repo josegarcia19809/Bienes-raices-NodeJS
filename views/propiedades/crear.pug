@@ -1,5 +1,7 @@
 extends ../layout/index
 
+block styles
+    link(rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css")
 
 block contenido
     .py-10
@@ -70,8 +72,6 @@ block contenido
                         h3.text-lg.leading-6.font-medium.text-gray-900 Ubicación
                         p.text-gray-600 Ubica la propiedad en el mapa
                         #mapa.h-96
-
-
 
                     input(class="w-full py-3 bg-indigo-600 hover:bg-indigo-700 rounded text-white font-bold uppercase cursor-pointer" type="submit" value="Añadir Imagen")
 

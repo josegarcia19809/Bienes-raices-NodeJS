@@ -22,13 +22,9 @@ Modificado jueves 1 de febrero de 2024
 Modificado viernes 2 de febrero de 2024
 
 
-Bienes raíces, NodeJS: Compilando JS con Webpack
+Bienes raíces, NodeJS: Mostrar el Mapa
 
 
-09:09
-Ejecutar Múltiples Scripts al Mismo Tiempo
-03:49
-Mostrar el Mapa
 05:23
 Añadiendo un Pin con la ubicación de la Propiedad
 02:18
