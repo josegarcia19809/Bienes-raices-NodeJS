@@ -22,7 +22,282 @@ Modificado jueves 1 de febrero de 2024
 Modificado viernes 2 de febrero de 2024
 
 
-Bienes raíces, NodeJS: Creación y registro de propiedades en venta
+Bienes raíces, NodeJS: Comenzando el Formulario de Crear Propiedades
 
+BienesRaices - Creación y Registro de Propiedades en Venta
+30 clases • 2 h 31 min
 
+06:31
+Añadiendo Campos de Categoria y Precio
+03:42
+Añadiendo Campos Extra con Información de la Propiedad
+05:53
+Añadiendo Scripts para Mostrar un Mapa
+03:20
+Compilando JS con Webpack
+09:09
+Ejecutar Múltiples Scripts al Mismo Tiempo
+03:49
+Mostrar el Mapa
+05:23
+Añadiendo un Pin con la ubicación de la Propiedad
+02:18
+Obtener la Latitud y Longitud del Pin
+03:37
+Obtener Información de la Calle y Ciudad al soltar el Pin
+04:19
+Almacenando Latitud, Longitud y Calle
+05:28
+Creando el Modelo de Propiedad
+07:36
+Añadiendo el Resto de Campos del modelo de Propiedad
+05:01
+Creando Modelos para Precio y Categorias
+03:12
+Primeros pasos creando un Seeder para la Base de Datos
+08:32
+Ejecutar el Seeder
+05:02
+SOLUCIÓN RETO 01
+
+03:56
+Eliminar Datos con el Seeder
+05:05
+Importando Precios y Categorias para Pasarlos a la Vista de Crear
+03:13
+Mostrando Precios y Categorías
+03:31
+Asociaciones En Sequelize
+05:26
+Creando un Archivo para Asociaciones
+06:56
+SOLUCIÓN RETO 02
+01:23
+Añadiendo CSRF y Validación al Formulario
+08:45
+Añadiendo el Resto de Validaciones
+04:36
+Autollenar los campos que si pasaron la validación
+02:09
+Autoseleccionar los Select que si pasaron la validación
+03:56
+Finalizando el Autollenado de los campos
+01:38
+Almacenar la última ubicación del Pin
+08:17
+Leer los datos del Formulario para Crear la Propiedad
+09:04
+
+BienesRaices - Proteger Rutas, Identificiar Usuario y Validar JWT
+5 clases • 26 min
+Creando un Seed de Usuarios
+03:53
+Creando un Custom Middleware para validar Rutas
+04:07
+Leyendo y Validando el JWT
+07:48
+Eliminar el Password de la Respuesta de la consulta
+05:31
+Agregando el Usuario Autenticado a la Propiedad recién creada
+04:34
+
+BienesRaices - Añadir Imágenes a la Propiedad
+10 clases • 1 h 4 min
+Creando la Página para Añadir la Propiedad
+07:10
+Añadiendo Dropzone
+05:23
+Primeros Pasos con Subir Imágenes
+02:47
+Revisar que la Propiedad no este publicada
+01:37
+Revisar que la propiedad pertenece al usuario que la visita
+05:23
+Configurando Dropzone
+08:30
+Añadir Protección CSRF a Dropzone
+06:33
+Configurando Multer (Descarga Materiales Aquí)
+12:11
+Leyendo la Imagen y almacenando la Referencia en la Propiedad
+06:54
+Procesar Imágenes hasta que el Usuario Presione en Publicar
+07:43
+
+BienesRaices - Mostrando las Propiedades en el Panel de Administración
+7 clases • 32 min
+Obtener las Propiedades del Usuario Autenticado
+05:34
+Mostrar Mensajes Condicionales
+01:16
+Iterando sobre las Propiedades
+06:48
+Mostrando Titulo de la Propiedad y Categoría
+02:45
+Consultar Tablas Relacionadas con Sequelize
+03:51
+SOLUCIÓN RETO 03
+04:54
+Añadiendo Botones de Edición, eliminar y Estado
+06:57
+
+BienesRaices - Edición de Propiedades
+5 clases • 22 min
+Routing para Editar Propiedades
+03:44
+Validaciones a la Propiedad a Editar
+02:29
+Autollenando los campos con el último valor
+02:59
+Validando la Propiedad a Editar
+08:20
+Reescribiendo el Objeto en la Base de datos
+04:10
+
+BienesRaices - Eliminar las Propiedades
+2 clases • 10 min
+Añadiendo la Acción de Eliminar en el Panel de Administración
+04:35
+Eliminar una Propiedad y su Imagen
+05:41
+
+BienesRaices - Mostrando una Propiedad
+7 clases • 31 min
+Creando un Layout para el Front End
+04:47
+Consultando La base de datos para la Propiedad que queremos ver
+03:04
+SOLUCION RETO 04
+01:09
+Mostrando información de la Propiedad
+03:41
+Mostrando el Resto de la Información de la Propiedad
+07:23
+Mostrando la Ubicación de la Propiedad
+02:41
+Mostrando el Mapa de la Propiedad
+08:35
+
+BienesRaices - Paginando las Propiedades en el Panel de Administración
+8 clases • 47 min
+Primeros Pasos, que es y como leer el Query String
+03:37
+Validando Números con una Expresión Regular
+06:02
+Validando Números Positivos
+02:47
+Paginando Registros
+04:40
+Generando los Números de la Paginación
+08:49
+Aplicando Tailwind a la paginación
+04:52
+Mostrando Información Extra de los Registros
+08:24
+Añadiendo Paginación de Siguiente y Anterior para móviles
+08:10
+
+BienesRaices - Creando la Página Principal
+18 clases • 1 h 25 min
+Creando el Controlador para Rutas Generales
+04:30
+Creando la Página de Inicio
+02:04
+Creando una Barra de Categorías y Enlazando Registro y Autenticación
+04:30
+Primeros Pasos para mostrar un mapa
+05:42
+Creando un Controlador para generar un JSON de Propiedades
+04:40
+Finalizando el JSON de Propiedades
+03:40
+Consultando el JSON de Propiedades
+06:30
+Mostrando los Pines de las Propiedades
+04:48
+Mostrando Información de las Propiedades en el Globo del Pin
+08:27
+Primeros Pasos creando un Filtrador de Propiedades
+02:49
+Añadiendo el Formulario de Filtros
+06:40
+Leyendo las selecciones del Usuario
+03:34
+Filtrando Propiedades por Categoria
+08:32
+SOLUCION RETO 05
+02:26
+Limpiando los Pines y Mostrando los que cumplen con el Filtrado
+03:33
+Obteniendo Propiedades y Departamentos para la página Principal
+04:22
+Mostrando las Casas en Venta en el Home
+04:59
+Mostrando Departamentos en Venta y Creando un Partial
+03:14
+
+BienesRaices - Creando las Páginas de Categorías, 404 y Buscador
+5 clases • 22 min
+Creando las Páginas de Categorías
+07:02
+Creando la Página 404
+01:37
+Añadiendo un Buscador
+06:57
+Filtrando Propiedades por Término de Búsqueda
+04:03
+Filtrando Resultados y mostrando coincidencias
+02:17
+
+BienesRaices - Permitir el Envio de Emails por un Formulario de Contacto
+15 clases • 59 min
+Identificando si un usuario esta o no autenticado
+03:41
+Añadiendo Enlace para Autenticarse
+02:54
+Si el Usuario esta Autenticado; puede enviar un mensaje
+04:32
+Ocultar el Formulario al Vendedor de la propiedad
+05:23
+Añadiendo el Formulario de Contacto
+02:45
+Creando el Modelo de Mensaje
+03:06
+Validación al Formulario
+04:09
+Creando el Mensaje
+05:58
+Añadiendo un Enlace para ver los mensajes
+03:09
+Relación Inversa de Propiedad hacia mensajes para consultarlos
+03:49
+Creando una página para ver los mensajes
+04:50
+Mostrando los Mensajes
+02:52
+Consultando quien envió el mensaje
+03:14
+Formateando la fecha de Envio (video 1 de 2)
+02:11
+Formateando la fecha de Envio (video 2 de 2)
+06:06
+
+BienesRaices - Cambiar el estado de una Propiedad
+6 clases • 26 min
+Detectando la Propiedad a Actualizar
+05:50
+Enviar la Petición hacia el Controller
+04:37
+Añadir el CSRF Token a la petición
+03:24
+Cambiando el Estado de la Propiedad en la BD
+04:05
+Cambiando el Estado de la Propiedad en el HTML
+06:40
+Evitar el Acceso a una Propiedad No Publicada
+01:37
+
+BienesRaices - Ajustes a las Barras de Navegación y Cerrar Sesión
+1 clases • 4 min
+Cerrar Sesión
 
