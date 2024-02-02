@@ -21,7 +21,7 @@ Modificado miércoles 31 de enero de 2024
 Modificado jueves 1 de febrero de 2024
 
 
-Bienes raíces, NodeJS: BienesRaices - Almacenando el JWT en un Cookie
+Bienes raíces, NodeJS: BienesRaices - Primeros pasos con las propiedades
 
 
 
