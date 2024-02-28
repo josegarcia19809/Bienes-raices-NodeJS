@@ -20,13 +20,14 @@ Modificado martes 30 de enero de 2024
 Modificado miércoles 31 de enero de 2024
 Modificado jueves 1 de febrero de 2024
 Modificado viernes 2 de febrero de 2024
+Modificado martes 27 de febrero de 2024
 
 
-Bienes raíces, NodeJS: Mostrar el Mapa
+Bienes raíces, NodeJS: Añadiendo un Pin con la ubicación de la Propiedad
 
 
 05:23
-Añadiendo un Pin con la ubicación de la Propiedad
+
 02:18
 Obtener la Latitud y Longitud del Pin
 03:37
