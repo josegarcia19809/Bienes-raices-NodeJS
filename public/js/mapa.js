@@ -16,7 +16,7 @@
   \************************/
 /***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n(function () {\n\n    // Logical Or\n    const lat = 19.73146275420665;\n    const lng = -99.95778290450444;\n    const mapa = L.map('mapa').setView([lat, lng], 16);\n    let marker;\n\n\n    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {\n        attribution: '&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors'\n    }).addTo(mapa);\n    // El pin\n    marker = new L.marker([lat, lng], {\n        draggable: true,\n        autoPan: true\n    })\n        .addTo(mapa)\n\n\n})()\n\n\n//# sourceURL=webpack://bienes_raices_mvc_node/./src/js/mapa.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n(function () {\n\n    // Logical Or\n    const lat = 19.73146275420665;\n    const lng = -99.95778290450444;\n    const mapa = L.map('mapa').setView([lat, lng], 16);\n    let marker;\n\n\n    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {\n        attribution: '&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors'\n    }).addTo(mapa);\n    // El pin\n    marker = new L.marker([lat, lng], {\n        draggable: true,\n        autoPan: true\n    })\n        .addTo(mapa)\n\n    // Detectar el movimiento del pin\n    marker.on(\"moveend\", function (e) {\n        marker = e.target;\n        const posicion = marker.getLatLng();\n        mapa.panTo(new L.LatLng(posicion.lat, posicion.lng));\n    })\n\n})()\n\n\n//# sourceURL=webpack://bienes_raices_mvc_node/./src/js/mapa.js?");
 
 /***/ })
 

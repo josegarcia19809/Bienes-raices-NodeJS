@@ -23,14 +23,8 @@ Modificado viernes 2 de febrero de 2024
 Modificado martes 27 de febrero de 2024
 
 
-Bienes raíces, NodeJS: Añadiendo un Pin con la ubicación de la Propiedad
+Bienes raíces, NodeJS: Obtener la Latitud y Longitud del Pin
 
-
-05:23
-
-02:18
-Obtener la Latitud y Longitud del Pin
-03:37
 Obtener Información de la Calle y Ciudad al soltar el Pin
 04:19
 Almacenando Latitud, Longitud y Calle
