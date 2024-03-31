@@ -21,12 +21,10 @@ Modificado miércoles 31 de enero de 2024
 Modificado jueves 1 de febrero de 2024
 Modificado viernes 2 de febrero de 2024
 Modificado martes 27 de febrero de 2024
+Modificado sábado 30 de marzo de 2024
 
+Bienes raíces, NodeJS: Obtener Información de la Calle y Ciudad al soltar el Pin
 
-Bienes raíces, NodeJS: Obtener la Latitud y Longitud del Pin
-
-Obtener Información de la Calle y Ciudad al soltar el Pin
-04:19
 Almacenando Latitud, Longitud y Calle
 05:28
 Creando el Modelo de Propiedad
