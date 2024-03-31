@@ -23,14 +23,8 @@ Modificado viernes 2 de febrero de 2024
 Modificado martes 27 de febrero de 2024
 Modificado sábado 30 de marzo de 2024
 
-Bienes raíces, NodeJS: Almacenando Latitud, Longitud y Calle
+Bienes raíces, NodeJS: Creando Modelos para Precio y Categorias
 
-Creando el Modelo de Propiedad
-07:36
-Añadiendo el Resto de Campos del modelo de Propiedad
-05:01
-Creando Modelos para Precio y Categorias
-03:12
 Primeros pasos creando un Seeder para la Base de Datos
 08:32
 Ejecutar el Seeder
@@ -65,7 +59,7 @@ Almacenar la última ubicación del Pin
 Leer los datos del Formulario para Crear la Propiedad
 09:04
 
-BienesRaices - Proteger Rutas, Identificiar Usuario y Validar JWT
+BienesRaices - Proteger Rutas, Identificar Usuario y Validar JWT
 5 clases • 26 min
 Creando un Seed de Usuarios
 03:53
