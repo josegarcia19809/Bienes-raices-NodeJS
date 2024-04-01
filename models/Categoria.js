@@ -2,7 +2,7 @@ import {DataTypes} from "sequelize";
 import db from "../config/db.js";
 
 const Categoria = db.define('categorias', {
-    titulo: {
+    nombre: {
         type: DataTypes.STRING(60),
         allowNull: false
     },

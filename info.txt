@@ -24,15 +24,8 @@ Modificado martes 27 de febrero de 2024
 Modificado sábado 30 de marzo de 2024
 Modificado domingo 31 de marzo de 2024
 
-Bienes raíces, NodeJS: Creando Modelos para Precio y Categorias
+Bienes raíces, NodeJS: Ejecutar el Seeder
 
-Primeros pasos creando un Seeder para la Base de Datos
-08:32
-Ejecutar el Seeder
-05:02
-SOLUCIÓN RETO 01
-
-03:56
 Eliminar Datos con el Seeder
 05:05
 Importando Precios y Categorias para Pasarlos a la Vista de Crear
