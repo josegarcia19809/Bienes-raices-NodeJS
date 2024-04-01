@@ -24,14 +24,8 @@ Modificado martes 27 de febrero de 2024
 Modificado sábado 30 de marzo de 2024
 Modificado domingo 31 de marzo de 2024
 
-Bienes raíces, NodeJS: Mostrando Precios y Categorías
+Bienes raíces, NodeJS: Creando un Archivo para Asociaciones
 
-Asociaciones En Sequelize
-05:26
-Creando un Archivo para Asociaciones
-06:56
-SOLUCIÓN RETO 02
-01:23
 Añadiendo CSRF y Validación al Formulario
 08:45
 Añadiendo el Resto de Validaciones
