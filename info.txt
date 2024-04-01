@@ -24,10 +24,8 @@ Modificado martes 27 de febrero de 2024
 Modificado sábado 30 de marzo de 2024
 Modificado domingo 31 de marzo de 2024
 
-Bienes raíces, NodeJS: Creando un Archivo para Asociaciones
+Bienes raíces, NodeJS: Añadiendo CSRF y Validación al Formulario
 
-Añadiendo CSRF y Validación al Formulario
-08:45
 Añadiendo el Resto de Validaciones
 04:36
 Autollenar los campos que si pasaron la validación
