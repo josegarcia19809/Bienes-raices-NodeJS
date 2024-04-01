@@ -24,10 +24,8 @@ Modificado martes 27 de febrero de 2024
 Modificado sábado 30 de marzo de 2024
 Modificado domingo 31 de marzo de 2024
 
-Bienes raíces, NodeJS: Eliminar Datos con el Seeder
+Bienes raíces, NodeJS: Importando Precios y Categorias para Pasarlos a la Vista de Crear
 
-Importando Precios y Categorias para Pasarlos a la Vista de Crear
-03:13
 Mostrando Precios y Categorías
 03:31
 Asociaciones En Sequelize
