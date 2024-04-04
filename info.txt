@@ -23,11 +23,10 @@ Modificado viernes 2 de febrero de 2024
 Modificado martes 27 de febrero de 2024
 Modificado sábado 30 de marzo de 2024
 Modificado domingo 31 de marzo de 2024
+Modificado miércoles 3 de abril de 2024
 
-Bienes raíces, NodeJS: Añadiendo el Resto de Validaciones
+Bienes raíces, NodeJS: Autollenar los campos que si pasaron la validación
 
-Autollenar los campos que si pasaron la validación
-02:09
 Autoseleccionar los Select que si pasaron la validación
 03:56
 Finalizando el Autollenado de los campos
