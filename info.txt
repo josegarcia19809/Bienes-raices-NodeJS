@@ -25,10 +25,9 @@ Modificado sábado 30 de marzo de 2024
 Modificado domingo 31 de marzo de 2024
 Modificado miércoles 3 de abril de 2024
 
-Bienes raíces, NodeJS: Autoseleccionar los Select que si pasaron la validación
+Bienes raíces, NodeJS: Finalizando el Autollenado de los campos
 
-Finalizando el Autollenado de los campos
-01:38
+
 Almacenar la última ubicación del Pin
 08:17
 Leer los datos del Formulario para Crear la Propiedad
