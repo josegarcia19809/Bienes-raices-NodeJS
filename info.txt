@@ -25,13 +25,8 @@ Modificado sábado 30 de marzo de 2024
 Modificado domingo 31 de marzo de 2024
 Modificado miércoles 3 de abril de 2024
 
-Bienes raíces, NodeJS: Almacenar la última ubicación del Pin
+Bienes raíces, NodeJS: Leer los datos del Formulario para Crear la Propiedad
 
-
-
-08:17
-Leer los datos del Formulario para Crear la Propiedad
-09:04
 
 BienesRaices - Proteger Rutas, Identificar Usuario y Validar JWT
 5 clases • 26 min
