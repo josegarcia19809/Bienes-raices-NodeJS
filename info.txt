@@ -25,10 +25,10 @@ Modificado sábado 30 de marzo de 2024
 Modificado domingo 31 de marzo de 2024
 Modificado miércoles 3 de abril de 2024
 
-Bienes raíces, NodeJS: Finalizando el Autollenado de los campos
+Bienes raíces, NodeJS: Almacenar la última ubicación del Pin
 
 
-Almacenar la última ubicación del Pin
+
 08:17
 Leer los datos del Formulario para Crear la Propiedad
 09:04
