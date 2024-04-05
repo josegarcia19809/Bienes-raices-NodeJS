@@ -26,13 +26,8 @@ Modificado domingo 31 de marzo de 2024
 Modificado miércoles 3 de abril de 2024
 Modificado jueves 4 de abril de 2024
 
-Bienes raíces, NodeJS: Agregando el Usuario Autenticado a la Propiedad recién creada
+Bienes raíces, NodeJS: Añadir Imágenes a la Propiedad -- Nueva sección
 
-
-04:34
-
-BienesRaices - Añadir Imágenes a la Propiedad
-10 clases • 1 h 4 min
 Creando la Página para Añadir la Propiedad
 07:10
 Añadiendo Dropzone
