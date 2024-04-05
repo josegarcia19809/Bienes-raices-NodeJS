@@ -24,14 +24,10 @@ Modificado martes 27 de febrero de 2024
 Modificado sábado 30 de marzo de 2024
 Modificado domingo 31 de marzo de 2024
 Modificado miércoles 3 de abril de 2024
+Modificado jueves 4 de abril de 2024
 
-Bienes raíces, NodeJS: Proteger Rutas, Identificar Usuario y Validar JWT... nueva sección
+Bienes raíces, NodeJS: Creando un Seed de Usuarios
 
-
-BienesRaices -
-5 clases • 26 min
-Creando un Seed de Usuarios
-03:53
 Creando un Custom Middleware para validar Rutas
 04:07
 Leyendo y Validando el JWT
