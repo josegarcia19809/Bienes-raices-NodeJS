@@ -10,14 +10,20 @@ const protegerRuta = async (req, res, next) => {
         return res.redirect("/auth/login");
     }
     // Comprobar el Token
-    try{
-        const decoded=jwt.verify(_token, process.env.JWT_SECRET);
-        const usuario = await Usuario.findByPk(decoded.id);
-    }catch(err){
+    try {
+        const decoded = jwt.verify(_token, process.env.JWT_SECRET);
+        const usuario = await Usuario.scope("eliminarPassword").findByPk(decoded.id);
+        if(usuario){
+            req.usuario = usuario;
+        }else {
+            return res.redirect("/auth/login");
+        }
+        return next();
+    } catch (err) {
         return res.clearCookie('_token').redirect("auth/login");
     }
 
-    next();
+
 }
 
 export default protegerRuta;
