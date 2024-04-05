@@ -26,9 +26,9 @@ Modificado domingo 31 de marzo de 2024
 Modificado miércoles 3 de abril de 2024
 Modificado jueves 4 de abril de 2024
 
-Bienes raíces, NodeJS: Creando un Seed de Usuarios
+Bienes raíces, NodeJS: Creando un Custom Middleware para validar Rutas
 
-Creando un Custom Middleware para validar Rutas
+
 04:07
 Leyendo y Validando el JWT
 07:48
